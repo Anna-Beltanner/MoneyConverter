@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MoneyConverter</string>
+    <string name="money_converter">Money Converter</string>
+    <string name="from">From</string>
+    <string name="to">TO</string>
+    <string name="amount">Amount</string>
+    <string name="convert">Convert</string>
+    <string-array name="money_codes">
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>ISK</item>
+        <item>PHP</item>
+        <item>DKK</item>
+        <item>CZK</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>IDR</item>
+        <item>BRL</item>
+        <item>RUB</item>
+        <item>JPY</item>
+        <item>THB</item>
+        <item>CHF</item>
+        <item>SGD</item>
+        <item>PLN</item>
+        <item>BGN</item>
+        <item>TRY</item>
+        <item>CNY</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>ZAR</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>ILS</item>
+        <item>GBP</item>
+        <item>KRW</item>
+        <item>MYR</item>
+
+
+    </string-array>
+</resources>
